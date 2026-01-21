@@ -2,7 +2,7 @@
 
 🎓 Informatics (Data Science) student at the University of Washington  
 📍 Bellevue, WA  
-📊 Interested in machine learning, recommender systems, and data-driven products
+📊 Interested in machine learning, data science, and grc management
 
 ---
 
@@ -10,7 +10,7 @@
 - BS in Informatics (Data Science), graduating **June 2026**
 - GPA: **3.91 / 4.00**
 - Certified **CompTIA Security+**
-- I enjoy turning messy data into useful insights and building systems that scale
+- I enjoy turning messy data into useful insights and building secure systems that scale.
 
 ---
 
@@ -20,10 +20,10 @@
 
 **Data & ML**
 - pandas, NumPy, scikit-learn, PyTorch
-- Matplotlib, seaborn, PyTerrier
+- Matplotlib, seaborn, PyTerrier, Tableau
 
 **Databases**
-- Azure SQL, MongoDB, Firebase, Supabase, AsterixDB
+- Azure SQL, MongoDB, Firebase, Supabase, AsterixDB, Vercel
 
 **Security & DevOps**
 - Docker, Metasploit, Wireshark, OWASP ZAP, Selenium IDE
@@ -49,9 +49,8 @@
 ---
 
 ## 🌱 Currently Learning
-- Advanced ML model evaluation
-- Search & recommender systems
-- Secure system design
+- Enterprise Risk Management
+- Capstone: Redesigning Legal Clinic Portal for CISC (Chinese Information and Service Center)
 
 ---
 
