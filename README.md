@@ -33,7 +33,7 @@
 
 ## 📌 Featured Repo Projects
 
-### 🔹 Datathon_2026
+### 🔹 Datathon_2026 **(Most Recent)**
 - Answered **4 accessibility-focused data science prompts** within a **24-hour competition**
 - Created powerpoints that highlights data visualizations with a 3-minute video voiceover
 - **Scored 24 / 25 points**, did not win the competition but at least won the judge's hearts ❤️
@@ -50,8 +50,9 @@
 
 ---
 
-## 🌱 Currently Progress
-- Enterprise Risk Management
+## 🌱 Current Progress
+- Studying Enterprise Risk Management
+- Prototyping for Game Development
 - Capstone: Redesigning Legal Clinic Portal for CISC (Chinese Information and Service Center)
 
 ---
