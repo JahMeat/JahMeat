@@ -2,7 +2,7 @@
 
 🎓 Informatics (Data Science) student at the University of Washington  
 📍 Bellevue, WA  
-📊 Interested in machine learning, data science, and grc management
+📊 Interested in machine learning algorithms, enterprise risk management, and game development
 
 ---
 
@@ -10,7 +10,8 @@
 - BS in Informatics (Data Science), graduating **June 2026**
 - GPA: **3.91 / 4.00**
 - Certified **CompTIA Security+**
-- I enjoy turning messy data into useful insights and building secure systems that scale.
+- Aside from building impactful technical applications, I enjoy skiing in the winter and fishing
+  in the summer as well as playing video games year-round 🎮
 
 ---
 
@@ -30,25 +31,26 @@
 
 ---
 
-## 📌 Featured Projects
-### 🔹 Amazon Recommender System
+## 📌 Featured Repo Projects
+
+### 🔹 Datathon_2026
+- Answered **4 accessibility-focused data science prompts** within a **24-hour competition**
+- Created powerpoints that highlights data visualizations with a 3-minute video voiceover
+- **Scored 24 / 25 points**, did not win the competition but at least won the judge's hearts ❤️
+- 
+### 🔹 AmazonRecommender
 - Content-based kNN recommender for **137k+ products**
 - Achieved **46% precision** and **67% nDCG@10**
 - Deployed via Flask with simulated users
 
-### 🔹 DubsTech Datathon 2025
-- Time-series forecasting for **30+ service categories**
-- Reduced error to **39% MAPE**
-- Visualized insights with Tableau dashboards
-
-### 🔹 HusKey Sandbox
+### 🔹 HusKey_Sandbox
 - Offensive security testing on a containerized app
 - Identified and patched **5 major vulnerabilities**
 - Built a bug bounty-style sandbox for contributors
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Progress
 - Enterprise Risk Management
 - Capstone: Redesigning Legal Clinic Portal for CISC (Chinese Information and Service Center)
 
